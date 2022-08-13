@@ -1,0 +1,10 @@
+button{
+    background-color: yellowgreen;
+    width: fit-content;
+    margin-left: 32rem;
+    margin-top: 3rem;
+    border-radius: 3rem;
+}
+h1{
+    padding: 1rem 7rem;
+}

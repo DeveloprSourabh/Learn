@@ -1,7 +1,7 @@
-let namaste =  document.querrySelector("button");
-namaste.addEventListner("click",showMsg);
+let namaste = document.querySelector("button");
+namaste.addEventListener('click',showMsg);
 
 
 function showMsg(){
-    alert("Hello World!");
+   alert("Hello World!");
 }
